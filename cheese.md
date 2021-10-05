@@ -24,8 +24,8 @@ A properly prepared cheese made from elite milk strengthens teeth. Hair. Gives v
 
 I make 2 types of cheese - **Cow cheese and Goat cheese**. 
 
-<img src="/img/cheese1.jpg" alt="" width="300"/>
-<img src="/img/cheese3.jpg" alt="" width="300"/>
+<img src="/cheese1.jpg" alt="" width="300"/>
+<img src="/cheese3.jpg" alt="" width="300"/>
 
 
 ## Gallery
@@ -33,13 +33,13 @@ I make 2 types of cheese - **Cow cheese and Goat cheese**.
 <div class="section">
 <div class="columns">
     <div class="column">
-<img src="/gallery/1.jpg" alt="">
+<img src="/1.jpg" alt="">
     </div>
     <div class="column">
-        <img src="/gallery/2.jpg" alt="">
+        <img src="/2.jpg" alt="">
         </div>
     <div class="column">
-        <img src="/gallery/3.jpg" alt="">
+        <img src="/3.jpg" alt="">
         </div>
     </div>
 </div>
