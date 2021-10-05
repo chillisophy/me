@@ -1,8 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me 
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+<br /><br />
+**Chilli Channel** provides products to save beauty, health, vitality and mental clarity.
+<br/>
+**Chilli Channel** provide a soap for purchasing: <a href="https://elite-soap.github.io/thai/">ELITE NATURAL SOAP</a>
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## You can also order a cheese by contacting me: 
+
+
+<br />**email:** sophi33@protonmail.com
+<br />**LINE:** @carbonbasedlife
+<br />**phone number:** +66 65 227 80 77
+<br />**telegram:** @soaphi
+<br />**facebook:**  <a href="https://www.facebook.com/groups/931401304016941">Chilli Channel</a>

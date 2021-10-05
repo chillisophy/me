@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://sophi33@protonmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/vszhub
+  url: https://twitter.com/chillisophy
   icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
-  icon: fab fa-github
+- title: Facebook
+  url: https://www.facebook.com/groups/931401304016941
+  icon: fab fa-facebook
+- title: Instagram
+  url: https://www.instagram.com/chillisophy
+  icon: fab fa-instagram

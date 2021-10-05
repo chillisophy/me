@@ -1,16 +1,16 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "not-pure-poole"
+  spec.name          = "chillisophy"
   spec.version       = "0.1.0"
-  spec.authors       = ["Mark Otto", "Songzi Vong"]
-  spec.email         = ["markdotto@gmail.com", "vszhub@gmail.com"]
+  spec.authors       = ["So Myown"]
+  spec.email         = ["sophi33protonmail.com"]
 
-  spec.summary       = "A simple, beautiful, and powerful Jekyll theme for blogs."
-  spec.homepage      = "https://github.com/vszhub/not-pure-jekyll"
+  spec.summary       = "Healthy blog"
+  spec.homepage      = ""
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.9"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.13"

@@ -1,9 +1,9 @@
-- type: dates
-  title: Dates
-  url: /dates/
+- type: soap
+  title: Soap
+  url: /soap/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: tags
-  title: Tags
-  url: /tags/
+- type: cheese
+  title: Cheese
+  url: /cheese/

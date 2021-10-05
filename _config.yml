@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: So Myown
+description: Advanced Naturopath, Cheese Maker and Soap Maker
+url: /
+avatar: /avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: chillisophy
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: So Myown
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/chillisophy
+
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: So Myown
+  url: /
+  email: sophi33@protonmail.com
+
+theme: bulma-clean-theme
