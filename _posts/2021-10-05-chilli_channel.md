@@ -9,6 +9,7 @@ tags:
 
 Chilli Channel is the General Name of my Unregistered Brand. 
 My Activity is not aimed at making a profit, but at sharing useful goods.
+<br /><br />
 
-<img src="/logo.jpg" alt="" width="500"/>
-
+  {%- include logo.html -%}
+  

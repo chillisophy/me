@@ -1,0 +1,28 @@
+{%- if site.cheese-1 contains "://" -%}
+{%- assign cheese-1 = site.cheese-1 -%}
+{%- else -%}
+{%- assign cheese-1 = site.cheese-1 | relative_url -%}
+{%- endif -%}
+<img src="{{ cheese-1 }}" class="cheese-image" alt="">
+
+{%- if site.cheese-2 contains "://" -%}
+{%- assign cheese-2 = site.cheese-2 -%}
+{%- else -%}
+{%- assign cheese-2 = site.cheese-2 | relative_url -%}
+{%- endif -%}
+<img src="{{ cheese-2 }}" class="cheese-image" alt="">
+
+
+{%- if site.cheese-3 contains "://" -%}
+{%- assign cheese-3 = site.cheese-3 -%}
+{%- else -%}
+{%- assign cheese-3 = site.cheese-3 | relative_url -%}
+{%- endif -%}
+<img src="{{ cheese-3 }}" class="cheese-image" alt="">
+
+{%- if site.cheese-4 contains "://" -%}
+{%- assign cheese-4 = site.cheese-4 -%}
+{%- else -%}
+{%- assign cheese-4 = site.cheese-4 | relative_url -%}
+{%- endif -%}
+<img src="{{ cheese-4 }}" class="cheese-image" alt="">

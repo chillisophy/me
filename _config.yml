@@ -6,6 +6,14 @@ avatar: /avatar.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpg
+cow-cheese: /cheese1.jpg
+goat-cheese: /cheese3.jpg
+cheese-1: /gal1.png
+cheese-2: /gal2.png
+cheese-3: /gal3.png
+cheese-4: /gal4.png
+logo: /logo.jpg
+chillicon: /chillicon.png
 
 # Gems
 plugins:
@@ -31,7 +39,6 @@ exclude:
 twitter:
   username: chillisophy
   card: summary
-logo: logo.png
 social:
   name: So Myown
   links:

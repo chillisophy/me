@@ -1,0 +1,6 @@
+{%- if site.logo contains "://" -%}
+{%- assign logo = site.logo -%}
+{%- else -%}
+{%- assign logo = site.logo | relative_url -%}
+{%- endif -%}
+      <img src="{{ logo }}" class="cheese-image" alt="">

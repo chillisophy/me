@@ -1,0 +1,13 @@
+    {%- if site.goat-cheese contains "://" -%}
+      {%- assign goat-cheese = site.goat-cheese -%}
+    {%- else -%}
+      {%- assign goat-cheese = site.goat-cheese | relative_url -%}
+    {%- endif -%}
+    <img src="{{ goat-cheese }}" class="cheese-image" alt="">
+
+    {%- if site.cow-cheese contains "://" -%}
+    {%- assign cow-cheese = site.cheese -%}
+  {%- else -%}
+    {%- assign cow-cheese = site.cow-cheese | relative_url -%}
+  {%- endif -%}
+  <img src="{{ cow-cheese }}" class="cheese-image" alt="">
