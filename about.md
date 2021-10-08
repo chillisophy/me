@@ -14,5 +14,6 @@ title: About Me
 <br />**email:** sophi33@protonmail.com
 <br />**LINE:** @carbonbasedlife
 <br />**phone number:** +66 65 227 80 77
+<br >**tawasal SuperApp:** sophi333
 <br />**telegram:** @soaphi
 <br />**facebook:**  <a href="https://www.facebook.com/groups/931401304016941">Chilli Channel</a>

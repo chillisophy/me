@@ -35,12 +35,19 @@ layout: default
 <div class="container">
 <b>Contacts:</b>
 <br />
-<br /><b>LINE:</b> @carbonbasedlife
-<br /><b>phone number:</b> +66 65 227 80 77
-<br /><b>telegram:</b> @soaphi
-<br /><b>facebook:</b> <a href="https://www.facebook.com/groups/931401304016941">Chilli Channel</a>
-<br /><b>instagram:</b> @chillisophy
-<br /><b>email:</b> sophi33@protonmail.com
+<br /><i class="fab fa-line"></i> <b>LINE:</b> @carbonbasedlife
+<br /><i class="fas fa-mobile"></i> <b>phone number:</b> +66 65 227 80 
+<br />
+{%- if site.logo_tawasal contains "://" -%}
+{%- assign logo_tawasal = site.logo_tawasal -%}
+{%- else -%}
+{%- assign logo_tawasal = site.logo_tawasal | relative_url -%}
+{%- endif -%}
+<img src="{{ logo_tawasal }}" style="width: 30px; display: inline-block;"/> <b>tawasal SuperApp:</b> sophi333
+<br /><i class="fab fa-telegram-plane"></i> </i> <b>telegram:</b> @soaphi
+<br /><i class="fab fa-facebook-f"></i> <b>facebook:</b> <a href="https://www.facebook.com/groups/931401304016941">Chilli Channel</a>
+<br /><i class="fab fa-instagram"></i> <b>instagram:</b> @chillisophy
+<br /><i class="fas fa-envelope"></i> <b>email:</b> sophi33@protonmail.com
 </div>
 <!-- <div class="pagination">
   {% if paginator.next_page %}

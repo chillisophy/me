@@ -4,8 +4,9 @@ permalink: /soap/
 title: Natural Soap
 toc:  true
 ---
-Welcome to **Chilli Channel !**  <br />
-Here i will show you some of the pictures about my Soap Making
+
+For direct ordering soap:<a href="https://elite-soap.github.io/thai/"> Thai Elite Soap </a> <br />
+Here i will show you some of the pictures about my **Soap Making**
 {: .message }
 
 <br />

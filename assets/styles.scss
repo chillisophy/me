@@ -1,9 +1,13 @@
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
+ 
 ---
 
-
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap') ;
+$family-sans-serif: 'Philosopher', sans-serif;
+$family-serif: "Philosopher";
+$family-primary: $family-sans-serif;
+$family-secondary: $family-serif;
+$title-family: $family-primary;
 @import "variables";
 @import "base";
 @import "type";
@@ -22,7 +26,7 @@
 
 @import "syntax-light";
 @media (prefers-color-scheme: dark) {
-  @import "syntax-dark";
+@import "syntax-dark";
 }
 
 // Sass for creating the swatches

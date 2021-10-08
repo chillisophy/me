@@ -6,9 +6,6 @@ type: cheese
 ---
 
 
-Welcome to **Chilli Channel !** 
-{: .message }
-
 Did you ever think that Raw Cheese is NOT just a pizza ingredient or a wine appetizer?
 
 

@@ -20,7 +20,7 @@ cocoa: cocoa.jpg
 sheabutter: sheabutter.jpg
 olive: olive.jpg
 coco: coco.jpg
-
+logo_tawasal: /logo.png
 
 # Gems
 plugins:
@@ -73,3 +73,9 @@ author:
   email: sophi33@protonmail.com
 
 theme: bulma-clean-theme
+
+defaults:
+  - scope:
+      path: "/img"
+    values:
+      image: true 
