@@ -4,10 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap') ;
 $family-sans-serif: 'Philosopher', sans-serif;
-$family-serif: "Philosopher";
-$family-primary: $family-sans-serif;
-$family-secondary: $family-serif;
-$title-family: $family-primary;
+
 @import "variables";
 @import "base";
 @import "type";
@@ -15,7 +12,6 @@ $title-family: $family-primary;
 @import "layout";
 @import "sidebar";
 @import "posts";
-@import "archive";
 @import "home-header";
 @import "pagination";
 @import "message";

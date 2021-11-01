@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Chillysophy
+title:
 tags: elite harmony health
 math: true
 ---
+###  Chillysophy🌶️
 Chillisophy is the Philosophy About a Harmonious & Healthy Life, and how their combination allows you to achieve the desired state of Inner World.
 <br />
 {%- if site.chillicon contains "://" -%}
